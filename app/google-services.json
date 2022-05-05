@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4218656335",
+    "project_id": "swim-tracker-7f387",
+    "storage_bucket": "swim-tracker-7f387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4218656335:android:3ae589853a9c021645bc3a",
+        "android_client_info": {
+          "package_name": "com.swimtracker.swimtrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4218656335-n71n0jj6mmkkt2glqlu6djcsr9m4goqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swimtracker.swimtrackerapp",
+            "certificate_hash": "47424cad3aff188211aeb27b0a503ee5d4165efc"
+          }
+        },
+        {
+          "client_id": "4218656335-35taujc637psupiqar3au817cc5lfi8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrMUgUxmnc0zmlwiedvAb-sooEjcyeSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4218656335-35taujc637psupiqar3au817cc5lfi8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
